@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { PokeCard } from "./components/PokeCard"
 import { SideNav } from "./components/SideNav"
-import { Header } from "./components/header"
+import { Header } from "./components/Header"
 
 
 function App() {
